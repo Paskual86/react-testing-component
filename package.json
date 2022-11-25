@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Testing library React",
+  "main": "index.js",
+  "repository": "https://github.com/Paskual86/react-testing-component.git",
+  "author": "Pablo Sebastian Andrada <pablosebastian.andrada@gmail.com>",
+  "license": "MIT"
 }
