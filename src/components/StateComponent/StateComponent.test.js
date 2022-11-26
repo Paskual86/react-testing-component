@@ -1,3 +1,4 @@
+// https://testing-library.com/docs/ecosystem-user-event/
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import StateComponent from './StateComponent';
 import userEvent from '@testing-library/user-event';
